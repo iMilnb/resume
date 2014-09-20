@@ -13,8 +13,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 #### Professional Experience
 
 ##### NBS System
-
-`CTO and co-owner - December 2009, still in position`
+##### _CTO and co-owner - December 2009, still in position_
 
 * Active **Board** member
 * NOC and Operation teams **management**: 20 members, 4 departments (Customer Services, Operations, DevOPS and SecOPS)
@@ -25,38 +24,33 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * **Pre-sales**, sales support and key accounts follow-up
 
 ##### NetCentrex - Comverse
-
-`Technical Manager - May 2006 to November 2009`
+##### _Technical Manager - May 2006 to November 2009_
 
 * OpenSource and technical expertise: **under my leadership**, the Operations Services support have brought a technical expertise to the Professional Services. Due to my involvement in the OpenSource community, my expertise has often been requested regarding Free Software integration into NetCentrex's Solutions.
 * Platform deployment design: NetCentrex VoIP platform is composed of many **SIP registrars, call routing engines, load balancers, customer care XMLRPC/HTTP(s)  services, distributed databases and LDAP servers**. These complex platforms are deployed and monitored using an infrastructure I designed. Around **800 servers** were installed using our mechanism, thus considerably reducing delivery time to customers like Orange France Telecom, Tiscali Italy or AOL Germany.
 * Member of the transversal security team: in collaboration with Comverse'security department, I was, along with 3 others architects, responsible of NetCentrex platforms hardening.
 
 ##### Dolphian
-
-`I.T. Manager - February 2004 to April 2006`
+##### _I.T. Manager - February 2004 to April 2006_
 
 * IP services filtering solution design and early implementation
 * R&D and Operations services **management**
 * Pre-sales reinforcement
 
 ##### Cable & Wireless - isdnet
-
-`vISP Development team leader - June 2002 to January 2004`
+##### _vISP Development team leader - June 2002 to January 2004_
 
 * Virtual ISP system design and development, these systems were made of shared mail, webmail, web hosting, news, dns, rbl and ftp servers for about 4M users. They were deployed on approximatively **100 BSD UNIX** (FreeBSD) servers dispatched over 3 datacenters.
 * Design and development of a modular LDAP to SQL gateway, the goal was to migrate services to LDAP without changing the SQL backend system. See http://imil.net/authd for details.
 * Cable & Wireless european accounts migration. About **1M user accounts** were transparently migrated under my leadership to our LDAP/SQL information systems.
 
 ##### Cable & Wireless - isdnet
-
-`R&D project manager - February 2001 to June 2002`
+##### _R&D project manager - February 2001 to June 2002_
 
 * Merge isdnet and Cable & Wireless hosted services. Unify Web services to Apache, DNS services to Bind and secure shell with OpenSSH. These solutions were functionnal for FreeBSD, GNU/Linux and Sun Solaris.
 
 ##### Cable & Wireless - isdnet
-
-`Unix system engineer - July 2000 to February 2001`
+##### _Unix system engineer - July 2000 to February 2001_
 
 * System and network administration, participation in the design of the vISP infrastructure and managed services.
 * Secure backup over SSL VPNs
@@ -64,8 +58,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Development and deployment of an NSS LDAP-like plugin for systems lacking this feature, see http://imil.net/eldap for details.
 
 ##### European Internet Center (C.I.E)
-
-`Unix system and network administrator - November 1997 to July 2000`
+##### _Unix system and network administrator - November 1997 to July 2000_
 
 * System and network infrastructure installation, administration and maintenance for this internet service provider.
 * Various perl, php, shell script and C developments to fully automate reccurent tasks, like DNS updates, vhost creation and some mail-related administration.
