@@ -1,18 +1,19 @@
-_Mr HEITOR Emile
-Born 17.06.1974
-French nationality
-Married, no children
-Location: Paris
-Email: imil@NetBSD.org
-Website : [http://imil.net](http://imil.net)
-LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)
-GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
+_Mr HEITOR Emile_
+_Born 17.06.1974_
+_French nationality_
+_Married, no children_
+_Location: Paris_
+_Email: imil@NetBSD.org_
+_Website : [http://imil.net](http://imil.net)_
+_LinkedIn profile:
+[http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)_
+_GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
-# Chief Technology Officer / OpenSource Infrastructures Expert
+## Chief Technology Officer / OpenSource Infrastructures Expert
 
-## Professional Experience
+### Professional Experience
 
-### NBS System
+#### NBS System
 
 `CTO and co-owner - December 2009, still in position`
 
@@ -24,7 +25,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Strategic partners relationship: network operators, hardware resellers, managed services
 * Pre-sales, sales support and key accounts follow-up
 
-### NetCentrex - Comverse
+#### NetCentrex - Comverse
 
 `Technical Manager - May 2006 to November 2009`
 
@@ -32,7 +33,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Platform deployment design: NetCentrex VoIP platform is composed of many SIP registrars, call routing engines, load balancers, customer care XMLRPC/HTTP(s) services, distributed databases and LDAP servers. These complex platforms are deployed and monitored using an infrastructure I designed. Around 800 servers were installed using our mechanism, thus considerably reducing delivery time to customers like Orange France Telecom, Tiscali Italy or AOL Germany.
 * Member of the transversal security team: in collaboration with Comverse'security department, I was, along with 3 others architects, responsible of NetCentrex platforms hardening.
 
-### Dolphian
+#### Dolphian
 
 `I.T. Manager - February 2004 to April 2006`
 
@@ -40,7 +41,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * R&D and Operations services management
 * Pre-sales reinforcement
 
-### Cable & Wireless - isdnet
+#### Cable & Wireless - isdnet
 
 `vISP Development team leader - June 2002 to January 2004`
 
@@ -48,13 +49,13 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Design and development of a modular LDAP to SQL gateway, the goal was to migrate services to LDAP without changing the SQL backend system. See http://imil.net/authd for details.
 * Cable & Wireless european accounts migration. About 1M user accounts were transparently migrated under my leadership to our LDAP/SQL information systems.
 
-### Cable & Wireless - isdnet
+#### Cable & Wireless - isdnet
 
 `R&D project manager - February 2001 to June 2002`
 
 * Merge isdnet and Cable & Wireless hosted services. Unify Web services to Apache, DNS services to Bind and secure shell with OpenSSH. These solutions were functionnal for FreeBSD, GNU/Linux and Sun Solaris.
 
-### Cable & Wireless - isdnet
+#### Cable & Wireless - isdnet
 
 `Unix system engineer - July 2000 to February 2001`
 
@@ -63,7 +64,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Development of a SMTP blacklisting system based on DNS queries (relay blackhole modification)
 * Development and deployment of an NSS LDAP-like plugin for systems lacking this feature, see http://imil.net/eldap for details.
 
-### European Internet Center (C.I.E)
+#### European Internet Center (C.I.E)
 
 `Unix system and network administrator - November 1997 to July 2000`
 
@@ -71,9 +72,9 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Various perl, php, shell script and C developments to fully automate reccurent tasks, like DNS updates, vhost creation and some mail-related administration.
 * Full network administration, from users RTC backends to shared RNIS, specialized lines and WAN link to our operators, UUnet and Oleane France Telecom.
 
-## Contributions
+### Contributions
 
-### Well known OpenSource projects (see details at http://imil.net)
+#### Well known OpenSource projects (see details at http://imil.net)
 
 * The NetBSD Project
   - pkgsrc: many packages, some docs and tutorials
@@ -89,7 +90,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Wine / Winex / Cedega, patches
 * The BeastieBox Project
 
-## Papers and tutorials (in french, see http://imil.net/docs/)
+### Papers and tutorials (in french, see http://imil.net/docs/)
 
 * Writing BSD Makefiles
 * BSD UNIX brief history and comparison
@@ -113,16 +114,16 @@ PDP11 emulator)
   - GLMF 118 - Un pkgin sec pour la 6 (Package management software programming)
   - GLMF 119 - À la découverte de NetBSD (NetBSD Operating System history)
 
-## Technical Knowledge
+### Technical Knowledge
 
-### Hardware platforms
+#### Hardware platforms
 
 * x86 and x86_64 based servers and workstations
 * UltraSPARC based servers and workstations
 * MIPS based embedded devices and servers
 * ARM based embedded devices
 
-### Operating systems
+#### Operating systems
 
 * Unix : NetBSD, FreeBSD, DragonFlyBSD, OpenBSD, BSDi, SunOS/Solaris, Minix, 2.11BSD.
 * GNU/Linux : Debian and clones, Gentoo, Slackware, RedHat and clones, LRP.
@@ -130,7 +131,7 @@ PDP11 emulator)
 * Load Balancers / Web accelerators : Foundry, F5 Networks, Redline Networks
 * Others : AmigaOS, GEM, Windows.
 
-### System and Network
+#### System and Network
 
 * Networking : Ethernet, LS, ISDN, RTC, Cable, ADSL, WiFi, various tunneling methods
 * Protocols : IPv4, IPv6 since 2000, WAP, 802.11, IP Routing, Transport protocols ( ppp, frame-relay )
@@ -139,23 +140,23 @@ PDP11 emulator)
 * Firewalling / Filtering / NAT: Cisco & Foundry ACL, BSD : ipf, ipfw, pf, GNU/Linux : ipfwadm, ipchains, iptables
 * Well Known Services : Bind ( 4, 8, 9 ), Asterisk, Sendmail, Postfix, OpenLDAP(*), Apache, Lighttpd, Roxen, Net-SNMP(*), UW/qpopper pop3 servers, UW & Courier imap4 servers, OpenBSD/FreeBSD/ProFTPd ftp servers, OpenSSH, CVS, BSD/Linux/Sun NFS, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Postgres, DHCP, Kannel...
 
-### Programming Languages
+#### Programming Languages
 
 C, Python, POSIX Shell scripting, Perl, Pike, PHP, SQL, TCL, HTML, RXML
 
-## Education
+### Education
 
 * E Series Baccalaurat at Lycée Jean-Baptiste Say, Paris, France
 * Industrial Systems BTS (Valedictorian) at UTEC Industries, Emerainville, France
 * AFNIC Technical Training
 
-## Languages
+### Languages
 
 * Spanish: bilingual (mother tongue)
 * English: bilingual
 * French: native tongue
 
-## Complementary Information
+### Complementary Information
 
 * NetBSD Developer, member of The NetBSD Foundation
 * Founder of the GCU-Squad association, a Free Unices advocacy and support group: http://GCU-Squad.org
