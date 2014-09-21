@@ -2,7 +2,7 @@ _Mr HEITOR Emile
 Born 17.06.1974  
 French nationality  
 Married, no children  
-Location: Paris  
+Location: Paris, France (willing to move to Barcelona, Spain)  
 Email: imil@NetBSD.org  
 Website : [http://imil.net](http://imil.net)  
 LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)  
