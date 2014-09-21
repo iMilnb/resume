@@ -8,7 +8,7 @@ Website : [http://imil.net](http://imil.net)
 LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)  
 GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
-### Chief Technology Officer / OpenSource Infrastructures Expert
+### <center>Chief Technology Officer / OpenSource Infrastructures Expert</center>
 
 #### Professional Experience
 
