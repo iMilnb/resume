@@ -98,13 +98,13 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
   - Hors Serie 30 - Diskless NetBSD
   - GLMF 94 - Jugamos a la Fonera (hacking the "La Fonera" wireless router)
   - GLMF 100 - Adminspotting: Zone0, le serveur parfait (Xen based server, LDAP unified services)
-  - GLMF 102 - 88 Miles à l'heure ! (Running and configuring 2.11BSD with a
+  - GLMF 102 - 88 Miles &agrave; l'heure ! (Running and configuring 2.11BSD with a
 PDP11 emulator)
   - Hors Serie 36 - Zone0: Le serveur presque parfait (Day-to-day operations on a Xen based server)
   - GLMF 105 - Developpement de LKM sous NetBSD (NetBSD Kernel Module programming)
-  - GLMF 108 - Mise en place d'un réseau Wifi ouvert (Open Wireless architecture setup)
+  - GLMF 108 - Mise en place d'un r&eacute;seau Wifi ouvert (Open Wireless architecture setup)
   - GLMF 118 - Un pkgin sec pour la 6 (Package management software programming)
-  - GLMF 119 - À la découverte de NetBSD (NetBSD Operating System history)
+  - GLMF 119 - &Agrave; la d&eacute;couverte de NetBSD (NetBSD Operating System history)
 
 #### Technical Knowledge
 
@@ -138,7 +138,7 @@ C, Python, POSIX Shell scripting, Perl, Pike, PHP, SQL, TCL, HTML, RXML
 
 #### Education
 
-* E Series Baccalaurat at Lycée Jean-Baptiste Say, Paris, France
+* E Series Baccalaurat at Lyc&eacute;e Jean-Baptiste Say, Paris, France
 * Industrial Systems BTS (Valedictorian) at UTEC Industries, Emerainville, France
 * AFNIC Technical Training
 
