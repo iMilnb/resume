@@ -1,10 +1,11 @@
-_Mr HEITOR Emile  
-Born 17.06.1974  
+## Mr HEITOR Emile <img style="width: 120px;" src="resume/images/iMil_id_shadow.png"/> 
+
+_Born 17.06.1974  
 French nationality  
 Married, no children  
-Location: Paris, France (willing to move to Barcelona, Spain)  
+Location: Paris, France  
 Email: imil@NetBSD.org  
-Website : [http://imil.net](http://imil.net)  
+Website: [http://imil.net](http://imil.net)  
 LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)  
 GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
@@ -12,57 +13,91 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
 #### Professional Experience
 
-##### NBS System
+##### NBS System <a href="http://www.nbs-system.com"><img src="resume/images/nbs-system.png"/></a>
 ##### _CTO and co-owner - December 2009, still in position_
 
 * Active **Board** member
-* NOC and Operation teams **management**: 20 members, 4 departments (Customer Services, Operations, DevOPS and SecOPS)
-* **Network design**: highly available network architecture, from edge routers (BGP, Juniper) to switching (Foundry / Brocade) and load balanced services (VRRP, IPVS)
-* **Cloud platform design**: fully elastic Virtual Private Servers based on the Xen hypervisor and deployment mechanisms such as Saltstack and Fabric
+* NOC and Operation teams **management**: 20 members, 4 departments (Customer
+  Services, Operations, DevOPS and SecOPS)
+* **Network design**: highly available network architecture, from edge routers
+  (BGP, Juniper) to switching (Foundry / Brocade) and load balanced services
+  (VRRP, IPVS)
+* **Cloud platform design**: fully elastic Virtual Private Servers based on the
+  Xen hypervisor and deployment mechanisms such as Saltstack and Fabric
 * **Critical services** design: DNS, Mail, LDAP backends
-* Strategic **partners relationship**: network operators, hardware resellers, managed services
+* Strategic **partners relationship**: network operators, hardware resellers,
+  managed services
 * **Pre-sales**, sales support and key accounts follow-up
 
-##### NetCentrex - Comverse
+##### NetCentrex - Comverse <a href="http://www.comverse.com"><img src="resume/images/comverse.png"/></a>
 ##### _Technical Manager - May 2006 to November 2009_
 
-* OpenSource and technical expertise: **under my leadership**, the Operations Services support have brought a technical expertise to the Professional Services. Due to my involvement in the OpenSource community, my expertise has often been requested regarding Free Software integration into NetCentrex's Solutions.
-* Platform deployment design: NetCentrex VoIP platform is composed of many **SIP registrars, call routing engines, load balancers, customer care XMLRPC/HTTP(s)  services, distributed databases and LDAP servers**. These complex platforms are deployed and monitored using an infrastructure I designed. Around **800 servers** were installed using our mechanism, thus considerably reducing delivery time to customers like Orange France Telecom, Tiscali Italy or AOL Germany.
-* Member of the transversal security team: in collaboration with Comverse'security department, I was, along with 3 others architects, responsible of NetCentrex platforms hardening.
+* OpenSource and technical expertise: **under my leadership**, the Operations
+  Services support have brought a technical expertise to the Professional
+  Services. Due to my involvement in the OpenSource community, my expertise
+  has often been requested regarding Free Software integration into
+  NetCentrex's Solutions.
+* Platform deployment design: NetCentrex VoIP platform is composed of many
+  **SIP registrars, call routing engines, load balancers, customer care
+  XMLRPC/HTTP(s)  services, distributed databases and LDAP servers**. These
+  complex platforms are deployed and monitored using an infrastructure I
+  designed. Around **800 servers** were installed using our mechanism, thus
+  considerably reducing delivery time to customers like **Orange France Telecom,
+  Tiscali Italy or AOL Germany**.
+* Member of the transversal security team: in collaboration with Comverse's
+  security department, I was, along with 3 others architects, responsible of
+  NetCentrex platforms hardening.
 
-##### Dolphian
+##### Dolphian <img src="resume/images/dolphian.png"/>
 ##### _I.T. Manager - February 2004 to April 2006_
 
 * IP services filtering solution design and early implementation
 * R&D and Operations services **management**
 * Pre-sales reinforcement
 
-##### Cable & Wireless - isdnet
+##### Cable & Wireless - isdnet <a href="http://www.cwc.com"><img src="resume/images/cable_and_wireless.png"/></a>
 ##### _vISP Development team leader - June 2002 to January 2004_
 
-* Virtual ISP system design and development, these systems were made of shared mail, webmail, web hosting, news, dns, rbl and ftp servers for about 4M users. They were deployed on approximatively **100 BSD UNIX** (FreeBSD) servers dispatched over 3 datacenters.
-* Design and development of a modular LDAP to SQL gateway, the goal was to migrate services to LDAP without changing the SQL backend system. See http://imil.net/authd for details.
-* Cable & Wireless european accounts migration. About **1M user accounts** were transparently migrated under my leadership to our LDAP/SQL information systems.
+* Virtual ISP system design and development, these systems were made of shared
+  mail, webmail, web hosting, news, dns, rbl and ftp servers for about 4M
+  users. They were deployed on approximatively **100 BSD UNIX** (FreeBSD)
+  servers dispatched over 3 datacenters.
+* Design and development of a modular LDAP to SQL gateway, the goal was to
+  migrate services to LDAP without changing the SQL backend system.
+  See http://imil.net/authd for details.
+* Cable & Wireless european accounts migration. About **1M user accounts**
+  were transparently migrated under my leadership to our LDAP/SQL information
+  systems.
 
-##### Cable & Wireless - isdnet
+##### Cable & Wireless - isdnet <a href="http://www.cwc.com"><img src="resume/images/cable_and_wireless.png"/></a>
 ##### _R&D project manager - February 2001 to June 2002_
 
-* Merge isdnet and Cable & Wireless hosted services. Unify Web services to Apache, DNS services to Bind and secure shell with OpenSSH. These solutions were functionnal for FreeBSD, GNU/Linux and Sun Solaris.
+* Merge isdnet and Cable & Wireless hosted services. Unify Web services to
+  Apache, DNS services to Bind and secure shell with OpenSSH. These solutions
+  were functionnal for FreeBSD, GNU/Linux and Sun Solaris.
 
-##### Cable & Wireless - isdnet
+##### Cable & Wireless - isdnet <a href="http://www.cwc.com"><img src="resume/images/cable_and_wireless.png"/></a>
 ##### _Unix system engineer - July 2000 to February 2001_
 
-* System and network administration, participation in the design of the vISP infrastructure and managed services.
+* System and network administration, participation in the design of the vISP
+  infrastructure and managed services.
 * Secure backup over SSL VPNs
-* Development of a SMTP blacklisting system based on DNS queries (relay blackhole modification)
-* Development and deployment of an NSS LDAP-like plugin for systems lacking this feature, see http://imil.net/eldap for details.
+* Development of a SMTP blacklisting system based on DNS queries (relay
+  blackhole modification)
+* Development and deployment of an NSS LDAP-like plugin for systems lacking
+  this feature, see http://imil.net/eldap for details.
 
 ##### European Internet Center (C.I.E)
 ##### _Unix system and network administrator - November 1997 to July 2000_
 
-* System and network infrastructure installation, administration and maintenance for this internet service provider.
-* Various perl, php, shell script and C developments to fully automate reccurent tasks, like DNS updates, vhost creation and some mail-related administration.
-* Full network administration, from users RTC backends to shared RNIS, specialized lines and WAN link to our operators, UUnet and Oleane France Telecom.
+* System and network infrastructure installation, administration and
+  maintenance for this internet service provider.
+* Various perl, php, shell script and C developments to fully automate
+  reccurent tasks, like DNS updates, vhost creation and some mail-related
+  administration.
+* Full network administration, from users RTC backends to shared RNIS,
+  specialized lines and WAN link to our operators, UUnet and Oleane France
+  Telecom.
 
 #### Contributions
 
@@ -82,7 +117,9 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * Wine / Winex / Cedega, patches
 * The BeastieBox Project
 
-#### Papers and tutorials (in french, see http://imil.net/docs/)
+#### Papers and tutorials
+
+Mostly in french, see http://imil.net/docs/
 
 * Writing BSD Makefiles
 * BSD UNIX brief history and comparison
@@ -117,24 +154,24 @@ PDP11 emulator)
 
 ##### Operating systems
 
-* Unix : NetBSD, FreeBSD, DragonFlyBSD, OpenBSD, BSDi, SunOS/Solaris, Minix, 2.11BSD.
-* GNU/Linux : Debian and clones, Gentoo, Slackware, RedHat and clones, LRP.
-* Routers : Cisco, Foundry, 3Com, Zyxel, Telebit.
-* Load Balancers / Web accelerators : Foundry, F5 Networks, Redline Networks
-* Others : AmigaOS, GEM, Windows.
+* UNIX: NetBSD, FreeBSD, DragonFlyBSD, OpenBSD, BSDi, SunOS/Solaris, Minix, 2.11BSD.
+* GNU/Linux: Debian and clones, Gentoo, Slackware, RedHat and clones, LRP.
+* Routers: Juniper, Cisco, Foundry, 3Com, Zyxel, Telebit.
+* Load Balancers / Web accelerators : Foundry / Brocade, F5 Networks, Redline Networks
+* Others: AmigaOS, GEM, Windows.
 
 ##### System and Network
 
-* Networking : Ethernet, LS, ISDN, RTC, Cable, ADSL, WiFi, various tunneling methods
-* Protocols : IPv4, IPv6 since 2000, WAP, 802.11, IP Routing, Transport protocols ( ppp, frame-relay )
+* Networking : FC, ISDN, RTC, Cable, ADSL, WiFi, various tunneling methods
+* Protocols : IPv4, IPv6 since 2000, WAP, 802.11, IP Routing (BGP, OSPF)
 * VoIP: SIP, H323, IAX2, Centrex and residential solutions (Registrar, SoftSwitch, SBC).
 * Virtualization technologies: Xen, KVM, QEMU, VirtualBox, VMware since 1999
-* Firewalling / Filtering / NAT: Cisco & Foundry ACL, BSD : ipf, ipfw, pf, GNU/Linux : ipfwadm, ipchains, iptables
-* Well Known Services : Bind ( 4, 8, 9 ), Asterisk, Sendmail, Postfix, OpenLDAP(*), Apache, Lighttpd, Roxen, Net-SNMP(*), UW/qpopper pop3 servers, UW & Courier imap4 servers, OpenBSD/FreeBSD/ProFTPd ftp servers, OpenSSH, CVS, BSD/Linux/Sun NFS, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Postgres, DHCP, Kannel...
+* Firewalling / Filtering / NAT: Cisco, Brocade, Juniper ACL, BSD: ipf, ipfw, pf, GNU/Linux: ipfwadm, ipchains, iptables
+* Well Known Services : Bind, Asterisk, Sendmail, Postfix, OpenLDAP, Apache, nginx, Net-SNMP, various POP3(S) / IMAP(S) servers, various ftp servers, OpenSSH, git, CVS, NFS v2/3/4, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Elasticsearch, MongoDB, DHCP, Kannel...
 
 ##### Programming Languages
 
-C, Python, POSIX Shell scripting, Perl, Pike, PHP, SQL, TCL, HTML, RXML
+C, Python, POSIX Shell scripting, Perl, PHP, SQL, TCL, HTML, CSS, JavaScript
 
 #### Education
 
