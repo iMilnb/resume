@@ -2,6 +2,7 @@
 
 _Born 17.06.1974  
 French nationality  
+Fluent in Spanish and English  
 Married, no children  
 Location: Paris, France  
 Email: imil@NetBSD.org  
