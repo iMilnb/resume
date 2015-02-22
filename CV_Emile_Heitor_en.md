@@ -132,7 +132,7 @@ Mostly in french, see http://imil.net/docs/
 * List manipulation using queue.h
 * Live USB Key creation with NetBSD
 * Various documents about virtualization (http://imil.net/wp/?cat=Virtualisation)
-* Articles published in GNU/Linux France Magazine
+* Articles published in GNU/Linux France Magazine (available [here](http://connect.ed-diamond.com/auteur/view/9415-heitor_emile_imil))
   - Hors Serie 29 - NetBSD dans la poche (embedded NetBSD in an USB key)
   - Hors Serie 30 - Diskless NetBSD
   - GLMF 94 - Jugamos a la Fonera (hacking the "La Fonera" wireless router)
@@ -144,6 +144,16 @@ PDP11 emulator)
   - GLMF 108 - Mise en place d'un r&eacute;seau Wifi ouvert (Open Wireless architecture setup)
   - GLMF 118 - Un pkgin sec pour la 6 (Package management software programming)
   - GLMF 119 - &Agrave; la d&eacute;couverte de NetBSD (NetBSD Operating System history)
+  - GLMF 136 - NetBSD en production, de l'int&eacute;r&egrave;t de la diversit&eacute;
+  - GLMF 159 - NetBSD + nginx + naxsi + MySQL + PHP == 3NMP
+  - GLMF 161 - AuthorizedKeyCommand: quand OpenSSH devient CloudSSH
+  - GLMF 166 - Introduction &agrave; Flask
+  - GLMF 166 - Salt, l'autre chef d'orchestre (Introduction to Salt)
+  - GLMF 166 - Un peu plus d'assaisonnement (Salt advanced topics)
+  - GMLF 167 - Tu deviendras Web Designer, mon fils (Introduction to Flask and Twitter Bootstrap)
+  - GLMF 170 - Asterisk en routeur d'appel (configuring a full SIP gateway with Asterisk)
+  - GLMF 172 - Demandez la lune &agrave; nginx ! (working with nginx and Lua)
+  - GLMF 172 - Jouons un peu (plus) ave nginx (nginx advanced features)
 
 #### Technical Knowledge
 
