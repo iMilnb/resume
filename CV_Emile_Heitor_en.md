@@ -154,7 +154,7 @@ PDP11 emulator)
   - GMLF 167 - Tu deviendras Web Designer, mon fils (Introduction to Flask and Twitter Bootstrap)
   - GLMF 170 - Asterisk en routeur d'appel (configuring a full SIP gateway with Asterisk)
   - GLMF 172 - Demandez la lune &agrave; nginx ! (working with nginx and Lua)
-  - GLMF 172 - Jouons un peu (plus) ave nginx (nginx advanced features)
+  - GLMF 172 - Jouons un peu (plus) avec nginx (nginx advanced features)
 
 #### Technical Knowledge
 
