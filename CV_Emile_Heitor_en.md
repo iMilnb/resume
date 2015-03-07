@@ -104,7 +104,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
 #### Contributions
 
-##### Well known OpenSource projects (see details at http://imil.net)
+##### Well known OpenSource projects contributions
 
 * The NetBSD Project
   - pkgsrc: many packages, some docs and tutorials
