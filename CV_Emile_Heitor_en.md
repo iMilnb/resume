@@ -113,6 +113,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
   - The NetBSD LiveKey project
   - [pkg_select presentation at pkgsrcCon'2006](http://imil.net/NetBSD/pkg_select.pdf)
   - [Pkgin](http://pkgin.net)
+* SaltStack, Xen and bridging modules
 * OpenLDAP, docs, patches (back-sql)
 * UnixODBC, patches (autoconf)
 * nss_ldap, docs, patches (FreeBSD 4 port)
