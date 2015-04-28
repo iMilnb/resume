@@ -10,7 +10,7 @@ Website: [http://imil.net](http://imil.net)
 LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)  
 GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
-&#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, Automation, Scalability, DevOps_
+&#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_
 
 ### <center>Chief Technology Officer / OpenSource Infrastructures Expert</center>
 
