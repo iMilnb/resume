@@ -27,6 +27,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
   (VRRP, IPVS)
 * **Cloud platform design**: fully elastic Virtual Private Servers based on the
   Xen hypervisor and deployment mechanisms such as Saltstack and Fabric
+* Merged **Amazon Web Services** as a virtual part of company's private Cloud
 * **Critical services** design: DNS, Mail, LDAP backends
 * Strategic **partners relationship**: network operators, hardware resellers,
   managed services
