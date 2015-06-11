@@ -177,12 +177,13 @@ PDP11 emulator)
 
 ##### System and Network
 
-* Networking : FC, ISDN, RTC, Cable, ADSL, WiFi, various tunneling methods
-* Protocols : IPv4, IPv6 since 2000, WAP, 802.11, IP Routing (BGP, OSPF)
+* **Amazon Web Services**: EC2, VPC connection / IPSec VPN and BGP routing, advanced CloudFormation setup, Route53, RDS, ElastiCache, S3 offload, CloudWatch alerting through SQS
+* Networking: FC, ISDN, RTC, Cable, ADSL, WiFi, various tunneling methods
+* Protocols: IPv4, IPv6 since 2000, WAP, 802.11, IP Routing (BGP, OSPF)
 * VoIP: SIP, H323, IAX2, Centrex and residential solutions (Registrar, SoftSwitch, SBC).
 * Virtualization technologies: Xen, KVM, QEMU, VirtualBox, VMware since 1999
 * Firewalling / Filtering / NAT: Cisco, Brocade, Juniper ACL, BSD: ipf, ipfw, pf, GNU/Linux: ipfwadm, ipchains, iptables
-* Well Known Services : Bind, Asterisk, Sendmail, Postfix, OpenLDAP, Apache, nginx, Net-SNMP, various POP3(S) / IMAP(S) servers, various ftp servers, OpenSSH, git, CVS, NFS v2/3/4, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Elasticsearch, MongoDB, DHCP, Kannel...
+* Well Known Services: Bind, Asterisk, Sendmail, Postfix, OpenLDAP, Apache, nginx, Net-SNMP, various POP3(S) / IMAP(S) servers, various ftp servers, OpenSSH, git, CVS, NFS v2/3/4, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Elasticsearch, MongoDB, DHCP, Kannel...
 
 ##### Programming Languages
 
