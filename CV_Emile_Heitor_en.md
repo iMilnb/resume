@@ -12,7 +12,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
 &#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_
 
-### <center>Chief Technology Officer / OpenSource Infrastructures Expert</center>
+### <center>Chief Technology Officer / OpenSource & Cloud Infrastructures Expert</center>
 
 #### Professional Experience
 
@@ -27,7 +27,9 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
   (VRRP, IPVS)
 * **Cloud platform design**: fully elastic Virtual Private Servers based on the
   Xen hypervisor and deployment mechanisms such as Saltstack and Fabric
-* Merged **Amazon Web Services** as a virtual part of company's private Cloud
+* Merged **Amazon Web Services** as a virtual part of company's private Cloud:
+  automated region bootstrap and integration using _CloudFormation_, IPsec &
+  BGP routing along with the [boto3](https://github.com/boto/boto3) _SDK_
 * **Critical services** design: DNS, Mail, LDAP backends
 * Strategic **partners relationship**: network operators, hardware resellers,
   managed services
