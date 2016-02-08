@@ -1,7 +1,7 @@
 ## Mr HEITOR Emile <img style="width: 120px;" src="resume/images/iMil_id_shadow.png"/> 
 
 _Born 17.06.1974  
-French nationality  
+Spanish & French nationalities  
 Fluent in Spanish and English  
 Married, no children  
 Current location: Paris, France  
