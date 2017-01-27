@@ -13,12 +13,23 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
 &#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_ <img alt="AWS Certified Solutions Architect - Associate Level" class="imgtags" src="resume/images/Solutions-Architect-Associate.png"/>
 
-### <center>Chief Technology Officer / OpenSource & Cloud Infrastructures Expert</center>
+### <center>OpenSource && Cloud Infrastructures Expert</center>
 
 #### Professional Experience
 
+##### NBS System / Oceanet Technology <a href="https://www.oceanet-technology.com/"><img src="resume/images/ot.png"/></a>
+##### _Head of Research & Expertise Department - July 2016, still in position_
+
+* Active _NBS-System_ **Board** member
+* Complex **Cloud** infrastructures consulting and design
+* On-premise and full Cloud **Hybridation** planning and architectures
+* Advanced **devops** consulting and design, full stack analysis
+* System and Network architectures expertise
+* **Data science**, extract valuable trends and strategies through terabytes of logs
+* Pre-sales, sales support and key accounts follow-up
+
 ##### NBS System <a href="http://www.nbs-system.com"><img src="resume/images/nbs-system.png"/></a>
-##### _CTO and co-owner - December 2009, still in position_
+##### _CTO and co-owner - December 2009 to July 2016_
 
 * Active **Board** member
 * NOC and Operation teams **management**: 20 members, 4 departments (Customer
@@ -174,6 +185,7 @@ PDP11 emulator)
 
 * UNIX: NetBSD, FreeBSD, DragonFlyBSD, OpenBSD, BSDi, SunOS/Solaris, Minix, 2.11BSD.
 * GNU/Linux: Debian and clones, Gentoo, Slackware, RedHat and clones, LRP.
+* Advanced Mac OS X (architecture, hacking & kernel module building)
 * Routers: Juniper, Cisco, Foundry, 3Com, Zyxel, Telebit.
 * Load Balancers / Web accelerators : Foundry / Brocade, F5 Networks, Redline Networks
 * Others: AmigaOS, GEM, Windows.
@@ -189,6 +201,13 @@ PDP11 emulator)
 * Virtualization technologies: Xen, KVM, QEMU, VirtualBox, VMware since 1999
 * Firewalling / Filtering / NAT: Cisco, Brocade, Juniper ACL, BSD: ipf, ipfw, pf, GNU/Linux: ipfwadm, ipchains, iptables
 * Well Known Services: Bind, Asterisk, Sendmail, Postfix, OpenLDAP, Apache, nginx, Net-SNMP, various POP3(S) / IMAP(S) servers, various ftp servers, OpenSSH, git, CVS, NFS v2/3/4, Squid, ircd, inn, IPsec/vtun/PPtP VPN systems, rsync, MySQL, Elasticsearch, MongoDB, DHCP, Kannel...
+
+##### DevOps and Automation
+
+* Advanced Saltstack, Ansible, Fabric
+* AWS CloudFormation, HashiCorp Terraform, Packer
+* Git, SVN, CVS
+* Docker, FreeBSD jails, <a href="https://github.com/NetBSDfr/sailor">NetBSD & OSX sailor</a> (author)
 
 ##### Programming Languages
 
