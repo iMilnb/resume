@@ -2,7 +2,7 @@
 
 _Born 17.06.1974  
 Spanish & French nationalities  
-Fluent in Spanish and English  
+Fluent in French, Spanish and English  
 Married, no children  
 Current locations: Valencia, Spain and Paris, France  
 Email: imil@NetBSD.org  
@@ -25,7 +25,7 @@ GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 * On-premise and full Cloud **Hybridation** planning and architectures
 * Advanced **devops** consulting and design, full stack analysis
 * System and Network architectures expertise
-* **Data science**, extract valuable trends and strategies through terabytes of logs
+* **Data analysis**, extract valuable trends and strategies through terabytes of logs
 * Pre-sales, sales support and key accounts follow-up
 
 ##### NBS System <a href="http://www.nbs-system.com"><img src="resume/images/nbs-system.png"/></a>
@@ -211,7 +211,7 @@ PDP11 emulator)
 
 ##### Programming Languages
 
-C, Python, POSIX Shell scripting, Perl, PHP, SQL, TCL, HTML, CSS, JavaScript
+C, Python, POSIX Shell scripting, JavaScript / nodejs, Perl, PHP, SQL, TCL, HTML, CSS
 
 #### Education & Certifications
 
