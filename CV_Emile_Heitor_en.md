@@ -11,7 +11,7 @@ LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/
 GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
 
 
-&#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_ <img alt="AWS Certified Solutions Architect - Associate Level" class="imgtags" src="resume/images/Solutions-Architect-Associate.png"/>
+&#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_ <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2017-05-30&ci=AWS00157779"><img alt="AWS Certified Solutions Architect - Professional" class="imgtags" src="resume/images/AWS_Certified_Logo_294x230_Black.png"></a>
 
 ### <center>OpenSource && Cloud Infrastructures Expert</center>
 
@@ -218,7 +218,8 @@ C, Python, POSIX Shell scripting, JavaScript / nodejs, Perl, PHP, SQL, TCL, HTML
 * E Series Baccalaurat at Lyc&eacute;e Jean-Baptiste Say, Paris, France
 * Industrial Systems BTS (Valedictorian) at UTEC Industries, Emerainville, France
 * AFNIC Technical Training
-* AWS Certified Solutions Architect - Associate Level
+* AWS Certified Solutions Architect - Associate (2015)
+* AWS Certified Solutions Architect - Professional (2017)
 
 #### Languages
 
