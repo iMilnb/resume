@@ -1,5 +1,5 @@
 ## Mr HEITOR Emile <img style="width: 120px;" src="resume/images/iMil_id_shadow.png"/> 
-
+<div id="myid">
 _Born 17.06.1974  
 Spanish & French nationalities  
 Fluent in French, Spanish and English  
@@ -9,6 +9,7 @@ Email: imil@NetBSD.org
 Website: [http://imil.net](http://imil.net)  
 LinkedIn profile: [http://www.linkedin.com/in/imilh](http://www.linkedin.com/in/imilh)  
 GitHub: [https://github.com/iMilnb](https://github.com/iMilnb)_
+</div>
 
 
 &#x2611; _OpenSource, Cloud Computing, UNIX/Linux, Infrastructure, AWS, Scalability, DevOps_ <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2017-05-30&ci=AWS00157779"><img alt="AWS Certified Solutions Architect - Professional" class="imgtags" src="resume/images/AWS_pro_cert.png">
@@ -207,11 +208,16 @@ PDP11 emulator)
 * Advanced Saltstack, Ansible, Fabric
 * AWS CloudFormation, HashiCorp Terraform, Packer
 * Git, SVN, CVS
-* Docker, FreeBSD jails, <a href="https://github.com/NetBSDfr/sailor">NetBSD & OSX sailor</a> (author)
+
+##### Container systems
+
+* Docker
+* FreeBSD jails
+* <a href="https://github.com/NetBSDfr/sailor">NetBSD & OSX sailor</a> (author)
 
 ##### Programming Languages
 
-C, Python, POSIX Shell scripting, JavaScript / nodejs, Perl, PHP, SQL, TCL, HTML, CSS
+C, Python, POSIX Shell scripting, Go, JavaScript / nodejs, Perl, PHP, SQL, TCL, HTML, CSS
 
 #### Education & Certifications
 
